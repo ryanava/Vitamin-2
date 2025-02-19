@@ -1,0 +1,40 @@
+html {
+    font-family: "Comic Sans MS", "Comic Sans", Arial, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Papyrus, serif;
+    color: purple;
+
+}
+
+li {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    padding: 16px;
+    background-color: gray;
+}
+li:hover {
+    background: #AAA;
+}
+
+ul {
+    list-style: none; /* Hide bullets */
+    margin: 0;/* Reset margin */
+    padding: 0;
+    /* Reset padding */
+    background-color: gray; /* Make background gray */
+}
+
+a {
+    color: black; /* black text */
+}
+
+footer {
+    background: #DDD;
+    color: #555;
+    text-align: center; /* center text */
+    margin: 0;
+    padding: 16px;
+
+}
